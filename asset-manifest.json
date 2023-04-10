@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1VeronReact/static/css/main.68841a8d.css",
+    "main.js": "/PreEntrega1VeronReact/static/js/main.4033e05e.js",
+    "index.html": "/PreEntrega1VeronReact/index.html",
+    "static/media/cart-icon.svg": "/PreEntrega1VeronReact/static/media/cart-icon.32251cf8f208a72e5a99a9cdcde48ee1.svg",
+    "main.68841a8d.css.map": "/PreEntrega1VeronReact/static/css/main.68841a8d.css.map",
+    "main.4033e05e.js.map": "/PreEntrega1VeronReact/static/js/main.4033e05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68841a8d.css",
+    "static/js/main.4033e05e.js"
+  ]
+}
